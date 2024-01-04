@@ -2,7 +2,7 @@
 
 Institute of Data Architecture's vision is to teach individuels to build highly effective data architectures that enable orginazations to grow, innovate, and revolutionize.
 
-For the development setup, go to: [InstituteofDataArchitecture/DevelopmentSetup](https://github.com/InstituteofDataArchitecture/DevelopmentSetup)
+For the development setup, go to: [InstituteOfDataArchitecture/DevelopmentSetup](https://github.com/InstituteOfDataArchitecture/DevelopmentSetup)
 
 For free courses in data architecture, go to: [ioda.co](https://ioda.co)
 
