@@ -1,6 +1,6 @@
 # Welcome to Institute of Data Architectures GitHub Account
 
-Institute of Data Architecture's vision is to teach individuels to build highly effective data architectures that enable orginazations to grow, innovate, and revolutionize.
+Institute of Data Architecture's vision is to teach individuals to build highly effective analytical data architectures that enable organizations to grow, innovate, and revolutionize.
 
 For the development setup, go to: [InstituteOfDataArchitecture/DevelopmentSetup](https://github.com/InstituteOfDataArchitecture/DevelopmentSetup)
 
